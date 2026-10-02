@@ -1,0 +1,348 @@
+{
+  "domains": [
+    {
+      "id": "employment_wages",
+      "name": "Employment & Wage Dispute",
+      "keywords": ["salary", "wages", "employer", "boss", "company", "fired", "termination", "resignation", "fnf", "full and final", "pf", "provident fund", "gratuity", "notice period", "layoff", "workplace", "unpaid", "relieving letter", "experience letter", "bond", "increment"],
+      "framework": "Payment of Wages Act 1936 & Industrial Disputes Act 1947",
+      "explanation": "This involves employment contracts, unpaid wages, delayed Full & Final (FnF) settlements, wrongful termination, or withholding of service certificates.",
+      "rights": [
+        "Employees are entitled to timely disbursement of earned wages and statutory full & final dues.",
+        "Employers cannot unlawfully withhold relieving letters or accumulated Provident Fund (EPFO) benefits.",
+        "Unreasonable bond penalties that restrict trade or employment are generally invalid under Section 27 of the Indian Contract Act."
+      ],
+      "actions": [
+        "Gather appointment letter, employment contract, salary slips, and bank statements showing wage history.",
+        "Calculate the exact outstanding wage amount, notice period pay, and pending allowances.",
+        "Send a formal written legal demand email to HR, payroll, and management giving 7–15 days to resolve.",
+        "If unresolved, file a grievance on the Ministry of Labour portal (SAMADHAN) or approach the local Labour Commissioner."
+      ],
+      "documents": [
+        "Employment Contract / Offer Letter",
+        "Salary Slips (last 3 to 6 months)",
+        "Bank Account Statement showing salary credits",
+        "Resignation / Termination Email Thread",
+        "EPF / UAN Details & Form 16"
+      ],
+      "authority": {
+        "name": "Ministry of Labour & Employment / State Labour Commissioner",
+        "purpose": "Official conciliation and statutory wage recovery forum.",
+        "phone": "1800 180 1111",
+        "website": "https://labour.gov.in/"
+      },
+      "draftType": "Employment Grievance & Wage Recovery Notice"
+    },
+    {
+      "id": "consumer_deficiency",
+      "name": "Consumer Protection & Defective Goods/Services",
+      "keywords": ["consumer", "product", "defective", "damaged", "replacement", "refund", "seller", "shop", "ecommerce", "amazon", "flipkart", "warranty", "mrp", "overcharging", "gym", "subscription", "repair", "service deficiency", "fake", "counterfeit", "coaching", "institute", "course", "fees", "shut down"],
+      "framework": "Consumer Protection Act 2019",
+      "explanation": "This involves defective goods, deficient customer services, unfair trade practices, or refusal to honor warranties by sellers and service providers.",
+      "rights": [
+        "Right to replacement, refund, or compensation for defective goods and sub-standard services.",
+        "Right against misleading advertisements, hidden charges, or prices exceeding Maximum Retail Price (MRP).",
+        "Right to register grievances online on the National Consumer Helpline and file electronic cases on e-Daakhil without a lawyer."
+      ],
+      "actions": [
+        "Preserve purchase bill/tax invoice, order confirmation, and payment transaction receipts.",
+        "Take clear photos or unboxing videos documenting the defect or deficiency.",
+        "Submit a formal written grievance to the merchant's customer support and grievance officer.",
+        "Register a complaint on the National Consumer Helpline (consumerhelpline.gov.in) or call 1915."
+      ],
+      "documents": [
+        "Tax Invoice / Order Receipt",
+        "Payment Proof / UPI Transaction ID",
+        "Photos / Videos of Defective Product",
+        "Warranty Card / Product Guarantee",
+        "Written Communication with Seller"
+      ],
+      "authority": {
+        "name": "National Consumer Helpline (NCH) & e-Daakhil Portal",
+        "purpose": "Consumer grievance redressal and Consumer Commission e-filing.",
+        "phone": "1915 (Toll Free) or SMS 8800001915",
+        "website": "https://consumerhelpline.gov.in/"
+      },
+      "draftType": "Consumer Grievance & Refund Demand Notice"
+    },
+    {
+      "id": "cybercrime_extortion",
+      "name": "Cybercrime, Online Fraud & Digital Extortion",
+      "keywords": ["cyber", "scam", "fraud", "hacked", "otp", "phishing", "leak", "photos", "private photos", "blackmail", "extortion", "deepfake", "telegram", "crypto scam", "apk", "upi fraud", "identity theft", "sextortion", "threats online"],
+      "framework": "Information Technology Act 2000 & Bharatiya Nyaya Sanhita (BNS)",
+      "explanation": "This involves online financial fraud, unauthorized account access, non-consensual sharing or threats to leak private images, and digital blackmail.",
+      "rights": [
+        "Right to privacy and criminal protection against blackmail, extortion, and non-consensual image dissemination.",
+        "Zero-liability protection for unauthorized banking transactions if reported to the bank within 3 days (RBI guidelines).",
+        "Right to immediate reporting on National Cybercrime Portal to freeze recipient bank/UPI accounts."
+      ],
+      "actions": [
+        "DO NOT pay extortion money or delete evidence; preserve all chat logs, screenshots, and phone numbers.",
+        "Immediately report financial fraud by calling 1930 within the 'golden hour' or at cybercrime.gov.in.",
+        "Block compromised bank cards and notify your bank branch manager immediately.",
+        "For blackmail involving private photos, file a complaint on cybercrime.gov.in under the Women/Child or Cyber Harassment cell."
+      ],
+      "documents": [
+        "Screenshots of Extortion Messages / Blackmail Chats",
+        "Bank Account Statement / UPI Transaction Ref",
+        "Phone numbers, Profile Links, or Email IDs of accused",
+        "Compromised APK / Link URL details (if applicable)"
+      ],
+      "authority": {
+        "name": "National Cyber Crime Reporting Portal & Cyber Police",
+        "purpose": "24/7 National cybercrime helpline and financial fraud freezing.",
+        "phone": "1930 (Cyber Fraud Helpline) / 112 (Emergency)",
+        "website": "https://cybercrime.gov.in/"
+      },
+      "draftType": "Cybercrime & Extortion Police Complaint Draft"
+    },
+    {
+      "id": "education_certificates",
+      "name": "Education, College & Student Rights",
+      "keywords": ["college", "university", "school", "fees", "fee refund", "certificate", "marksheet", "original documents", "original certificates", "ragging", "admit card", "withheld", "degree", "hostel", "ugc", "aicte", "documents back"],
+      "framework": "UGC Notification on Verification of Documents & AICTE Regulations",
+      "explanation": "This involves educational disputes, unlawful retention of original educational certificates, admission fee refund refusals, or student harassment.",
+      "rights": [
+        "UGC and AICTE regulations strictly prohibit institutions from retaining original academic certificates (10th/12th marksheets, degrees).",
+        "Students are entitled to proportional fee refunds upon cancellation of admission in accordance with UGC refund norms.",
+        "Institutions cannot hold documents hostage over disputed fees or penalty claims."
+      ],
+      "actions": [
+        "Submit a formal written application to the Principal/Registrar demanding return of original certificates.",
+        "Cite the UGC Notification on Verification of Certificates (which prohibits document retention).",
+        "Lodge an online grievance on the UGC e-Samadhan portal (samadhan.ugc.ac.in).",
+        "If unresolved, escalate to the District Collector / Higher Education Directorate."
+      ],
+      "documents": [
+        "Admission Letter & Fee Receipts",
+        "Copy of Application requesting document return",
+        "Student ID Card / Enrollment Proof",
+        "Written refusal or communication from institution"
+      ],
+      "authority": {
+        "name": "UGC e-Samadhan Portal / Ministry of Education",
+        "purpose": "Official student grievance redressal and regulatory enforcement.",
+        "phone": "1800-180-5522 (Toll Free)",
+        "website": "https://samadhan.ugc.ac.in/"
+      },
+      "draftType": "Formal Demand for Return of Educational Certificates"
+    },
+    {
+      "id": "debt_money_recovery",
+      "name": "Money Recovery, Unpaid Debt & Cheque Dishonour",
+      "keywords": ["lent money", "borrowed", "friend", "money recovery", "cheque bounce", "section 138", "promissory note", "unpaid invoice", "dues", "debt", "repay", "refuses to return", "loan repayment"],
+      "framework": "Negotiable Instruments Act 1881 & Civil Procedure Code (Summary Suits)",
+      "explanation": "This involves recovering unpaid loans, friendly debts, business dues, freelance payments, or dishonoured cheques.",
+      "rights": [
+        "Dishonour of cheques due to insufficient funds is punishable under Section 138 of the Negotiable Instruments Act.",
+        "Creditors can file a Summary Suit (Order 37 CPC) for rapid debt recovery based on written acknowledgments or UPI proofs.",
+        "The statutory limitation period to initiate debt recovery is 3 years from the date of default or acknowledgment."
+      ],
+      "actions": [
+        "Gather bank account statements, UPI payment receipts, WhatsApp chat admissions, or written promissory notes.",
+        "For bounced cheques, serve a statutory 30-day legal notice within 30 days of receiving the bank dishonour memo.",
+        "Send a formal written legal demand notice giving 15 days to refund the amount.",
+        "If unpaid, approach the Civil Court or District Legal Services Authority (DLSA) for pre-litigation mediation."
+      ],
+      "documents": [
+        "Bank Account Statement highlighting fund transfer",
+        "WhatsApp / Email conversations admitting debt",
+        "Cheque Copy & Bank Return Memo (if applicable)",
+        "Promissory note / Agreement / Receipt (if any)"
+      ],
+      "authority": {
+        "name": "District Legal Services Authority (DLSA) & Civil Court",
+        "purpose": "Pre-litigation mediation, legal aid, and recovery proceedings.",
+        "phone": "15100 (Free Legal Aid Helpline)",
+        "website": "https://nalsa.gov.in/"
+      },
+      "draftType": "Legal Demand Notice for Debt Recovery"
+    },
+    {
+      "id": "tenancy_housing",
+      "name": "Tenancy, Rent & Security Deposit Dispute",
+      "keywords": ["landlord", "tenant", "rent", "rental", "deposit", "security deposit", "flat", "house", "broker", "eviction", "lease", "pg", "maintenance", "refusing to return deposit", "lockout", "electricity cut"],
+      "framework": "Model Tenancy Act & State Rent Control Acts",
+      "explanation": "This involves rental agreements, unlawful security deposit deductions, arbitrary eviction threats, or disconnection of essential utilities.",
+      "rights": [
+        "Landlords cannot withhold security deposits without presenting itemized repair bills for genuine damage beyond normal wear and tear.",
+        "Landlords cannot forcefully evict tenants or cut water/electricity utilities without formal judicial process.",
+        "Tenants are entitled to receipt of refunded deposit within the agreed notice timeline."
+      ],
+      "actions": [
+        "Compile the signed rent agreement, deposit payment receipts, and handover inspection messages.",
+        "Send a formal written demand notice stating move-out date, inspection clearance, and refund deadline.",
+        "Give 7–15 days notice before seeking formal dispute resolution.",
+        "If unresolved, file a petition with the local Rent Tribunal or District Legal Services Authority."
+      ],
+      "documents": [
+        "Rent / Lease Agreement",
+        "Security Deposit Payment Proof (UPI / Bank transfer)",
+        "Move-out Handover Photos / Messages",
+        "Electricity / Utility clearance bills"
+      ],
+      "authority": {
+        "name": "District Rent Authority / Legal Aid Clinic (DLSA)",
+        "purpose": "Tenancy dispute resolution and deposit recovery mediation.",
+        "phone": "15100 (Free Legal Aid Helpline)",
+        "website": "https://nalsa.gov.in/"
+      },
+      "draftType": "Security Deposit Refund Formal Demand Notice"
+    },
+    {
+      "id": "police_criminal_complaint",
+      "name": "Police Conduct, Criminal Grievance & Zero FIR",
+      "keywords": ["police", "fir", "arrest", "station", "thana", "stopped by police", "false case", "bail", "detained", "custody", "harassment by police", "zero fir", "complaint not registered", "forged", "forgery", "signature"],
+      "framework": "Bharatiya Nyaya Sanhita (BNS) & Bharatiya Nagarik Suraksha Sanhita (BNSS)",
+      "explanation": "This involves police procedures, registration of FIRs for cognizable offences, citizen rights during detention, forgery, or police misconduct.",
+      "rights": [
+        "Right to register a 'Zero FIR' at any police station across India regardless of crime jurisdiction.",
+        "Right to know grounds of arrest and immediately inform a family member/friend (Section 41B / BNSS § 36).",
+        "Women cannot be arrested between 6:00 PM and 6:00 AM without exceptional Judicial Magistrate orders.",
+        "Right to free legal representation at the police station under Article 39A."
+      ],
+      "actions": [
+        "If a local police station refuses to file an FIR, send the written complaint via registered post or email to the Superintendent of Police (SP/DCP).",
+        "Obtain a stamped acknowledgment copy for every physical complaint submitted.",
+        "Approach the District Legal Services Authority (DLSA) for free advocate assistance.",
+        "For police harassment, file a complaint with the State Police Complaints Authority."
+      ],
+      "documents": [
+        "Written Complaint Copy with Date & Receiving Stamp",
+        "Identity Proof (Aadhaar / Voter ID / Driving License)",
+        "Names / Badge Numbers of police officers involved (if known)",
+        "Supporting CCTV / Video / Audio or Document Evidence"
+      ],
+      "authority": {
+        "name": "District Legal Services Authority (NALSA) & SP Office",
+        "purpose": "Free legal aid, FIR escalation, and criminal justice assistance.",
+        "phone": "15100 (NALSA) / 112 (Police Emergency)",
+        "website": "https://nalsa.gov.in/"
+      },
+      "draftType": "Formal Criminal Complaint / Representation to SP"
+    },
+    {
+      "id": "domestic_safety_women",
+      "name": "Domestic Violence, Harassment & Safety Protection",
+      "keywords": ["domestic violence", "husband", "wife", "in-laws", "beating", "abuse", "marital", "dowry", "stalking", "harassment", "molestation", "sexual harassment", "posh", "threatening", "violence"],
+      "framework": "Protection of Women from Domestic Violence Act 2005 & POSH Act 2013",
+      "explanation": "This involves domestic abuse, physical or emotional violence, marital disputes, stalking, workplace sexual harassment, or urgent safety concerns.",
+      "rights": [
+        "Right to reside safely in the shared household and obtain immediate protection orders against violence.",
+        "Right to emergency shelter, medical aid, interim monetary maintenance, and child custody.",
+        "Right to 100% free legal aid and assistance through One Stop Centres (Sakhi) and DLSA."
+      ],
+      "actions": [
+        "If you are in immediate physical danger, dial 112 or 1091 (Women Helpline) immediately.",
+        "Reach out to the nearest One Stop Centre (Sakhi Centre) or District Protection Officer.",
+        "Preserve medical reports, photos of injuries, and abusive messages in a safe, accessible location.",
+        "Contact the National Commission for Women (NCW) or State Women's Commission for urgent intervention."
+      ],
+      "documents": [
+        "Medical Examination / Injury Report (if applicable)",
+        "Marriage Certificate / Proof of Relationship",
+        "Audio / Video / Chat Records of Threats",
+        "Previous Police Diary / Complaint Acknowledgments"
+      ],
+      "authority": {
+        "name": "National Commission for Women (NCW) & One Stop Centres",
+        "purpose": "Emergency intervention, shelter, and legal guidance for women.",
+        "phone": "1091 (Women Helpline) / 7827170170 (NCW) / 112",
+        "website": "http://ncw.nic.in/"
+      },
+      "draftType": "Protection Application / Grievance to Women's Commission"
+    },
+    {
+      "id": "property_neighbor_civic",
+      "name": "Property, Neighbour Dispute & Civic Grievance",
+      "keywords": ["neighbor", "neighbour", "blocking", "entrance", "gate", "noise", "loud music", "construction", "encroachment", "land", "boundary", "garbage", "civic", "municipal", "water", "electricity", "society", "maintenance dispute"],
+      "framework": "Civil Procedure Code & Municipal Corporation Acts / Public Nuisance Provisions",
+      "explanation": "This involves neighbour disputes, obstruction of common pathways, property encroachment, noise nuisance, or municipal service failures.",
+      "rights": [
+        "Right against unlawful obstruction of easementary access to one's property (Indian Easements Act).",
+        "Right against public nuisance and hazardous encroachments under civic municipal bylaws and BNSS § 152.",
+        "Right to register civic complaints with local municipal ward offices and Resident Welfare Associations."
+      ],
+      "actions": [
+        "Take clear photos and video recordings of the obstruction or nuisance with date/time stamps.",
+        "Submit a polite written request or grievance to the Housing Society / RWA or neighbour.",
+        "If unresolved, file a formal complaint with the Municipal Ward Officer or local police station for public nuisance.",
+        "For persistent pathway obstruction, apply for a temporary injunction before the Civil Court."
+      ],
+      "documents": [
+        "Photos / Videos of Obstruction or Damage",
+        "Property Ownership / Tenancy Documents",
+        "Copy of Written Communication / Notice to Neighbour",
+        "Housing Society / Municipal Complaint Reference"
+      ],
+      "authority": {
+        "name": "Municipal Corporation Ward Office & District Legal Aid",
+        "purpose": "Civic nuisance removal and easement dispute mediation.",
+        "phone": "112 (Police) / 15100 (Legal Aid)",
+        "website": "https://nalsa.gov.in/"
+      },
+      "draftType": "Formal Grievance Notice regarding Property Obstruction / Nuisance"
+    },
+    {
+      "id": "contract_commercial",
+      "name": "Contract Breach & Commercial Dispute",
+      "keywords": ["contract", "agreement", "signed", "not following", "breach", "vendor", "freelance", "service agreement", "nda", "terms", "violation", "clause"],
+      "framework": "Indian Contract Act 1872",
+      "explanation": "This involves failure to perform contractual obligations, breach of written or oral agreements, or non-delivery of agreed commercial terms.",
+      "rights": [
+        "Right to enforce contractual terms or claim damages/compensation for losses incurred due to breach.",
+        "Right to issue a formal Notice of Breach requiring the defaulting party to cure the breach within a stipulated period.",
+        "Right to initiate commercial mediation or approach the Commercial Court / MSME Samadhaan (for registered entities)."
+      ],
+      "actions": [
+        "Review the signed agreement, highlighting key obligation clauses, payment milestones, and dispute resolution terms.",
+        "Prepare an itemized statement of losses or incomplete performance.",
+        "Send a formal Notice of Breach giving 15–30 days to rectify or fulfill obligations.",
+        "Explore pre-institution mediation at the District Legal Services Authority."
+      ],
+      "documents": [
+        "Executed Contract / Signed Agreement / Purchase Order",
+        "Invoices, Delivery Receipts & Payment Proofs",
+        "Email / Message Trails documenting non-performance",
+        "Notice of Breach Sent"
+      ],
+      "authority": {
+        "name": "District Legal Services Authority / Commercial Court",
+        "purpose": "Commercial dispute mediation and civil enforcement.",
+        "phone": "15100 (Legal Aid)",
+        "website": "https://nalsa.gov.in/"
+      },
+      "draftType": "Legal Notice for Breach of Contract & Demand for Performance"
+    },
+    {
+      "id": "general_citizen",
+      "name": "General Citizen Grievance & Legal Assessment",
+      "keywords": ["legal notice", "notice", "government department", "dont know", "not sure", "legal issue", "advice", "lawyer", "help", "what to do", "bothering"],
+      "framework": "General Legal Principles & Citizen Welfare Statutes",
+      "explanation": "This is a general citizen inquiry or legal notice situation where initial facts need further clarification to determine specific statutory remedies.",
+      "rights": [
+        "Right to understand any legal notice received before responding (never ignore a court or statutory notice).",
+        "Right to 100% free legal advice through NALSA & DLSA legal aid clinics under Article 39A of the Constitution.",
+        "Right to seek public information under the Right to Information Act 2005."
+      ],
+      "actions": [
+        "Document a clear chronological timeline of events with all involved parties, dates, and locations.",
+        "Preserve all notices, letters, bills, SMS, emails, or physical records received.",
+        "Do not sign any document or make admissions under pressure before consulting a qualified legal advisor.",
+        "Visit your nearest District Legal Services Authority (DLSA) front office for free advice."
+      ],
+      "documents": [
+        "Copy of Legal Notice or Letter Received (all pages)",
+        "Identity Proof (Aadhaar / Voter ID / PAN)",
+        "Timeline of Events & Supporting Records",
+        "Proof of Prior Communication"
+      ],
+      "authority": {
+        "name": "National Legal Services Authority (NALSA) & DLSA",
+        "purpose": "Free legal counseling, notice interpretation, and legal representation.",
+        "phone": "15100 (National Legal Aid Toll-Free)",
+        "website": "https://nalsa.gov.in/"
+      },
+      "draftType": "Formal Information Request / Representation Letter"
+    }
+  ]
+}
